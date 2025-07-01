@@ -52,5 +52,7 @@ Real estate professionals often struggle with interpreting large datasets to ide
 - **Full Insights Report:** Dubai Housing Project Insights.pdf
 
 
-
+## 💬 **Contact**
+Project by Siddhi Wagh
+For feedback or collaboration: [LinkedIn](https://www.linkedin.com/in/siddhi-wagh-343489169/)
 
