@@ -14,27 +14,26 @@ Real estate professionals often struggle with interpreting large datasets to ide
 
 ## **Visualizations Created:**
 
-**KPI Cards:** To Show Total Properties, Average Price, Average Price per SqFt , Average Size (SqFt) , Most Expensive Property
-**Line Chart:** To analyze a trend of average price over the years (Property Built).
-**Stacked Column chart:** To show properties distribution across neighborhood by Property Agee on x - axis.
-**Pie Chart:** To show proportions of Properties by Categories like Budget, Mid-range and High-End.
-**Treemap:** To show Average Price by Neighborhoods like Urban, Rural or Suburb.
-**Scatter Plot (Binned):** To visualize trend of Average Price vs Property Size with size bins to avoid clutter.
-**Matrix:** To provide raw data for deeper inspection on count of properties per categories and neighborhoods.
-**Slicers:**  To enable dynamic filtering by Number Bedrooms and Bathrooms and Year Built.
-**Text Box:** To mention the name of the Dashboard.
-**Buttons:** Reset button using Bookmark and Information button.
+- **KPI Cards:** To Show Total Properties, Average Price, Average Price per SqFt , Average Size (SqFt) , Most Expensive Property
+- **Line Chart:** To analyze a trend of average price over the years (Property Built).
+- **Stacked Column chart:** To show properties distribution across neighborhood by Property Agee on x - axis.
+- **Pie Chart:** To show proportions of Properties by Categories like Budget, Mid-range and High-End.
+- **Treemap:** To show Average Price by Neighborhoods like Urban, Rural or Suburb.
+- **Scatter Plot (Binned):** To visualize trend of Average Price vs Property Size with size bins to avoid clutter.
+- **Matrix:** To provide raw data for deeper inspection on count of properties per categories and neighborhoods.
+- **Slicers:**  To enable dynamic filtering by Number Bedrooms and Bathrooms and Year Built.
+- **Text Box:** To mention the name of the Dashboard.
+- **Buttons:** Reset button using Bookmark and Information button.
 
 ![Dubai Housing Market Dashboard](https://github.com/user-attachments/assets/1a30d2d3-ba7c-4759-ac09-00d459e2a5f3)
 
 ## **Key Takeaways From the Data:** 
 
-*General Overview:*
-- Total Properties : 50,000
-- Average Price: AED 224.84K
-- Average Size: 2006.37 SqFt
-- Average Price per SqFt: AED 113.31
-- Highest Property Price: AED 492.20K
+- **Total Properties:** 50,000
+- **Average Price:** AED 224.84K
+- **Average Size:** 2006.37 SqFt
+- **Average Price per SqFt:** AED 113.31
+- **Highest Property Price:** AED 492.20K
 
 - On Average, Property prices have shown stable fluctuations since 1950 and prices hover around AED 220K–230K consistently.
 - Mid-Range properties dominate the market with 77.97% (38.98K) of the entire properties.
