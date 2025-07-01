@@ -1,18 +1,18 @@
 # Dubai-Housing-Market-Data-Analysis
 An interactive Power BI dashboard using Dubai housing market data to provide actionable insights.
 
-## **Brief Summary:**
+## ✅ **Brief Summary:**
 Built an interactive dashboard in Power BI to analyze Dubai housing data based on size, price, location, and features. Used DAX and Power Query to clean data, categorize listings, and create visuals to support real estate decision-making.
 
-## **Problem Statement:**
+## 🧾**Problem Statement:**
 Real estate professionals often struggle with interpreting large datasets to identify trends in pricing, property distribution, and market segmentation. The challenge lies in converting raw property listings into a clear, user-friendly dashboard that provides actionable insights.
 
-## **Tools Used:**
+## 🛠️ **Tools Used:**
 - Power BI Desktop
 - DAX 
 - Power Query
 
-## **Visualizations Created:**
+## 📈 **Visualizations Created:**
 
 - **KPI Cards:** To Show Total Properties, Average Price, Average Price per SqFt , Average Size (SqFt) , Most Expensive Property
 - **Line Chart:** To analyze a trend of average price over the years (Property Built).
@@ -27,7 +27,7 @@ Real estate professionals often struggle with interpreting large datasets to ide
 
 ![Dubai Housing Market Dashboard](https://github.com/user-attachments/assets/1a30d2d3-ba7c-4759-ac09-00d459e2a5f3)
 
-## **Key Takeaways From the Data:** 
+## 🧠**Key Takeaways From the Data:** 
 
 - **Total Properties:** 50,000
 - **Average Price:** AED 224.84K
@@ -42,5 +42,7 @@ Real estate professionals often struggle with interpreting large datasets to ide
 - Highest property count (13971) is seen in 40–60 years group, across all neighborhoods. 
 - New properties (0–20 years) are fewer, indicating lower recent development or inclusion in this dataset.
 - There's a strong positive correlation between property size and average price as size increase so does the price increases
+
+
 
 
