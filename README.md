@@ -46,10 +46,10 @@ Real estate professionals often struggle with interpreting large datasets to ide
 
 ## 📄 **Project Files**
 
-**Dataset:** housing_price_dataset.csv
-**.pbix file:**
-**Dashboard Screenshot:** Dubai Housing Market Dashboard.png
-**Full Insights Report:** Dubai Housing Project Insights.pdf
+- **Dataset:** housing_price_dataset.csv
+- **.pbix file:** Dubai Housing Dashboard.pbix
+- **Dashboard Screenshot:** Dubai Housing Market Dashboard.png
+- **Full Insights Report:** Dubai Housing Project Insights.pdf
 
 
 
