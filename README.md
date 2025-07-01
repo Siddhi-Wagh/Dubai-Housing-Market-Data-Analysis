@@ -44,5 +44,13 @@ Real estate professionals often struggle with interpreting large datasets to ide
 - There's a strong positive correlation between property size and average price as size increase so does the price increases
 
 
+## 📄 **Project Files**
+
+**Dataset:** housing_price_dataset.csv
+**.pbix file:**
+**Dashboard Screenshot:** Dubai Housing Market Dashboard.png
+**Full Insights Report:** Dubai Housing Project Insights.pdf
+
+
 
 
